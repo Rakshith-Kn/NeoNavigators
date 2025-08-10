@@ -1,7 +1,7 @@
 # 🌍 NeoNavigators
 
 Welcome to the demonstration of *NeoNavigators, our intelligent travel planning application powered by Agentic AI.
-<img src=""C:\Users\raksh\OneDrive\Desktop\neonavigators\neonavi - Copy.jpg"" alt="NeoNavigators" width="700">
+<img src="neonavi.jpg" alt="NeoNavigators" width="700">
 
 The objective of NeoNavigators is to provide travelers with a seamless, interactive, and highly personalized trip planning experience.  
 The application leverages *Large Language Models (LLMs)* with a *destination-driven interaction* approach.  
