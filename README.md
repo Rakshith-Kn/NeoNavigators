@@ -59,6 +59,9 @@ The *Agentic AI methodology* enables NeoNavigators to operate as a semi-autonomo
 
 ## 📂 Repository Structure
 
+
+## 📸 Watch the demonstartaion video
+
 [![Watch the video](https://img.icons8.com/ios-filled/100/000000/play-button-circled.png)](https://github.com/Rakshith-Kn/NeoNavigators/blob/main/media/recording-2025-08-10-212309_d1LxuGuU.mp4)
 
 
