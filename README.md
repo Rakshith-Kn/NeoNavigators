@@ -1,7 +1,7 @@
 # 🌍 NeoNavigators
 
-Welcome to the demonstration of *NeoNavigators, our intelligent travel planning application powered by **Agentic AI*.
-<img src="neonavi.jpg"alt="NeoNavigators" width="700">
+Welcome to the demonstration of *NeoNavigators, our intelligent travel planning application powered by Agentic AI.
+<img src="neonavi.jpg" alt="NeoNavigators" width="700">
 
 The objective of NeoNavigators is to provide travelers with a seamless, interactive, and highly personalized trip planning experience.  
 The application leverages *Large Language Models (LLMs)* with a *destination-driven interaction* approach.  
@@ -32,7 +32,6 @@ The *Agentic AI methodology* enables NeoNavigators to operate as a semi-autonomo
 | *Security* | safety-guide | Shares emergency contact information and safety tips to ensure a secure travel experience. |
 | *Language* | language-helper | Provides essential phrases, translations, and pronunciation guides for smoother local communication. |
 | *Connect* | travel-network | Allows users to connect with fellow travelers, local guides, and communities to share tips, arrange meet-ups, and exchange recommendations. |
-| *Photo Spots* | photo-location-finder | Highlights scenic, Instagram-worthy spots, hidden gems, and viewpoints perfect for photography. |
 | *Lost & Found* | lost-item-assistant | Helps report and recover lost items by connecting travelers with local authorities or services. |
 | *Journals* | trip-journal | Lets users document their journey with notes, photos, and memories in a digital travel diary. |
 
