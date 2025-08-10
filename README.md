@@ -1,7 +1,6 @@
 # 🌍 NeoNavigators
 
 Welcome to the demonstration of *NeoNavigators, our intelligent travel planning application powered by Agentic AI.
-<img src="neonavi.jpg" alt="NeoNavigators" width="700">
 
 The objective of NeoNavigators is to provide travelers with a seamless, interactive, and highly personalized trip planning experience.  
 The application leverages *Large Language Models (LLMs)* with a *destination-driven interaction* approach.  
@@ -59,3 +58,5 @@ The *Agentic AI methodology* enables NeoNavigators to operate as a semi-autonomo
 ---
 
 ## 📂 Repository Structure
+
+NeoNavigators/ ├── public/                     # Static assets (images, icons, etc.) ├── src/                        # Application source code │   ├── components/             # Reusable UI components │   ├── pages/                  # Next.js pages and routing │   ├── styles/                 # Global and component-specific styles │   ├── agents/                 # AI agent logic and orchestration │   ├── utils/                   # Helper functions and utilities │   └── services/               # API calls and external service integrations ├── README.md                   # Project documentation ├── package.json                # Dependencies and scripts ├── .env.example                # Example environment variables └── vercel.json                 # Deployment configuration
